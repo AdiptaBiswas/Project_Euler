@@ -1,3 +1,4 @@
 ### Project_Euler
- Project Euler Comutation Challenges in Python 
- Ref: https://projecteuler.net/
+Project Euler Computation Challenges and solutions in Python
+ 
+Challenge Site Ref: https://projecteuler.net/

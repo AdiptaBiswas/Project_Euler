@@ -2,6 +2,8 @@ import time
 
 ls = []
 start = time.time()
+
+# Reduced Search Space 
 for i in range(900,1000):
   for j in range(900,1000):
     num = str(i*j)

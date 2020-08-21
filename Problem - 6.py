@@ -1,4 +1,5 @@
 import time
+
 # Square of Sum
 def sq_o_sm(n):
   start = time.time()
@@ -11,6 +12,7 @@ def sq_o_sm(n):
 square_of_sum,time_tkn = sq_o_sm(100)
 print("Time taken: {} milliseconds".format((time.time()-time_tkn)*1000))
 print(square_of_sum)
+
 # Sum of Square
 def sm_o_sq(n):
   start = time.time()
@@ -21,8 +23,10 @@ def sm_o_sq(n):
 Sum_of_square, time_taken = sm_o_sq(100)
 print("Time taken: {} milliseconds".format((time.time()-time_taken)*1000))
 print(Sum_of_square)
+
 # Difference
 print(square_of_sum - Sum_of_square)
+
 # 25164150
 
 

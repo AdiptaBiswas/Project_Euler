@@ -1,4 +1,5 @@
-### Project_Euler Computation Challenges
-'Project Euler' computation problem-challenges and solutions in Python
+## Project Euler - Computation challenges
+
+- 'Project Euler' computation problem-challenges and solutions in Python.
  
-Challenge Site Ref: https://projecteuler.net
+- Challenge Site Ref: https://projecteuler.net.
